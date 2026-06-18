@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Ayon 👋
 
-<!--
-**Ayon0922/Ayon0922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Data Scientist | Computer Science @ UMBC
 
-Here are some ideas to get you started:
+I am a Computer Science undergraduate at the University of Maryland, Baltimore County (UMBC), highly focused on building a career in **Data Science**. I specialize in developing data pipelines, analytics engines, and transforming raw data into actionable insights. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 What I Do
+* **Studying:** Pursuing a B.S. in Computer Science at UMBC.
+* **Building:** Creating data-driven projects like full-stack workout analytics and recommendation engines.
+* **Working:** Managing business operations and digital engagement as the Co-founder of Boomerang BD.
+* **Leading:** Serving as a Conference Assistant and Residential Life Desk Assistant at UMBC.
+
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, SQL, HTML/CSS
+* **Data Science:** Data Cleaning (ETL), Exploratory Data Analysis (EDA), Predictive Modeling
+* **Backend & Deployment:** Flask/FastAPI, SQLite/PostgreSQL, Railway
+
+### 🌟 Outside of Code
+When I am away from my keyboard, I am usually:
+* 🏋️‍♂️ **Lifting:** Training consistently to hit my aesthetic and strength goals.
+* 🏸 **Competing:** Playing competitive badminton and training for regional tournaments.
+* ✍️ **Writing:** Drafting original poetry and lyrics.
+* 🎮 **Gaming:** Playing high-tier mobile games (4-finger HUD layout on iPhone).
+
+### 📫 Let's Connect
+* **LinkedIn:** www.linkedin.com/in/ayonrahman0922
+* **Email:** ayonr1@umbc.edu
+* **Portfolio:** [Insert link to your GitHub pages or live project here]
+
+---
+⭐️ *From Ayon0922*
