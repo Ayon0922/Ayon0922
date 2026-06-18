@@ -25,7 +25,7 @@ When I am away from my keyboard, I am usually:
 ### 📫 Let's Connect
 * **LinkedIn:** www.linkedin.com/in/ayonrahman0922
 * **Email:** ayonr1@umbc.edu
-* **Portfolio:** [Insert link to your GitHub pages or live project here]
+* **Portfolio:** https://ayon0922.github.io/
 
 ---
 ⭐️ *From Ayon0922*
